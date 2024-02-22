@@ -57,7 +57,6 @@
             search
           </span>
           <span class="text-title fs-24">Search...</span>
-          <input type="text" placeholder="請輸入搜尋項目">
         </div>
       </div>
       <DestinationSwiperVue />
